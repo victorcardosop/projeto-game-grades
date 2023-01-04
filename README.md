@@ -6,17 +6,25 @@ Projeto criado para listar avaliações de games jogados, criado por mim (Victor
 
 <p align="center">
 <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#projeto">Projeto</a>
 </p>
 
 <br>
 
 <p align="center">
-<img alt="calendario da copa" src="./assets/preview1.JPG" width="100%">
+<img alt="Parte Superior da Página" src="./assets/preview1.JPG" width="100%">
+</p>
+<p align="center">
+Imagem da parte superior da página (Imagem 1).
 </p>
 
+<br>
+
 <p align="center">
-<img alt="calendario da copa" src="./assets/preview2.JPG" width="100%">
+<img alt="Lista de Games" src="./assets/preview2.JPG" width="100%">
+</p>
+<p align="center">
+Imagem da parte da lista de games (Imagem 2).
 </p>
 
 ## Tecnologias
