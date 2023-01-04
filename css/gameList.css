@@ -1,0 +1,211 @@
+/* CONTADOR DE JOGOS */
+
+#gamesCount {
+    font-size: 2.5rem;
+    border: 2px solid #071040;
+    background-color: #1F8C8E;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+#gamesList {
+    display: flex;
+    justify-content: center;
+}
+
+#gamesList {
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+/* JOGO: ITEM DA LISTA */
+
+.game {
+    border: 2px solid #071040;
+    /* border-bottom: none; */
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #1F8C8E;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+
+    width: 14.5rem;
+
+    /* -webkit-box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.75); */
+}
+
+.game:hover {
+    color: white;
+    filter: brightness(1.3);
+}
+
+.gameImage {
+    border: 1px solid #071040;
+    border-radius: 0.5rem;
+}
+
+.game img:hover {
+    transform: scale(1.08);
+    transition: transform .4s;
+}
+
+.game h2 {
+    text-align: center;
+}
+
+.game h3 {
+    border: 2px solid #1F8C8E;
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+
+    min-width: 4rem;
+    text-align: center;
+}
+
+.game .rate {
+    font-size: 2rem;
+}
+
+.game .star {
+    display: flex;
+    gap: 0.4rem;
+}
+
+/* MEDIA */
+
+@media (max-width: 1070px) {
+    #gamesCount {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 840px) {
+    #gamesCount {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 790px) {
+    #gamesCount {
+        font-size: 1.3rem;
+    }
+    #games .game h2 {
+        font-size: 100%;
+        text-align: center;
+    }
+
+    #games .game h3 {
+        font-size: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 685px) {
+    #gamesCount {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 580px) {
+    #gamesCount {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 540px) {
+    #searchGame {
+        width: 100%;
+    }
+}
+
+@media (max-width: 510px) {
+    #gamesCount {
+        text-align: center;
+    }
+}
+
+@media (max-width: 460px) {
+    #games .colorizer {
+        width: 80%;
+    }
+
+    #games .game img {
+        width: 80%;
+    }
+
+    #games .game h2 {
+        font-size: 98%;
+        text-align: center;
+    }
+
+    #games .game h3 {
+        font-size: 98%;
+        text-align: center;
+    }
+
+    #games .game div strong .rate {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 420px) {
+    #selection,
+    #gamesList {
+        padding: 1rem;
+    }
+
+    
+}
+
+@media (max-width: 375px) {
+    #searchGame,
+    #chooseGrade,
+    #chooseOrder,
+    #chooseGenre,
+    #choosePlatform {
+        width: 80%;
+    }
+}
+
+@media (max-width: 360px) {
+    #games .colorizer {
+        width: 70%;
+    }
+
+    #games .game img {
+        width: 70%;
+    }
+
+    #games .game h2 {
+        font-size: 88%;
+    }
+
+    #games .game h3 {
+        font-size: 88%;
+    }
+
+    #games .game .star {
+        align-items: center;
+    }
+
+    #games .game div strong .rate {
+        font-size: 100%;
+    }
+
+    #games .game div strong .rateOf {
+        font-size: 90%;
+    }
+}
+
+@media (max-width: 300px) {
+    #gamesList {
+        padding: 0.5rem;
+    }
+}

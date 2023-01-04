@@ -1,0 +1,182 @@
+/* ESTILIZAÇÃO DAS LEGENDAS */
+
+/* SECTION DOS LABELS */
+
+#genresLabel {
+    display: flex;
+    gap: 2rem;
+
+    align-items: center;
+    justify-content: center;
+}
+
+/* DIV DOS LABELS */
+
+#labels {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+
+    gap: 2rem;
+}
+
+/* CLASSE DAS LEGENDAS */
+
+.labelUnit {
+    display: flex;
+    gap: 0.5rem;
+
+    align-items: center;
+}
+
+/* DIV DA COR DA LEGENDA */
+
+.labelBlock {
+    width: 1rem;
+    height: 1rem;
+
+    border: 2px solid black;
+}
+
+#actionLabel {
+    background-color: #E59B06;
+}
+
+#metroidvaniaLabel {
+    background-color: #6407C1;
+}
+
+#fpsLabel {
+    background-color: #582519;
+}
+
+#stealthLabel {
+    background-color: gray;
+}
+
+#platformLabel {
+    background-color: #17DFD6;
+}
+
+#adventureLabel {
+    background-color: #EDF10A;
+}
+
+#sandboxLabel {
+    background-color: royalblue;
+}
+
+#strategyLabel {
+    background-color: #22E515;
+}
+
+#rpgLabel {
+    background-color: #037185;
+}
+
+#roguelikeLabel {
+    background-color: #D426E8;
+}
+
+#soulslikeLabel {
+    background-color: crimson;
+}
+
+#sportsLabel {
+    background-color: goldenrod;
+}
+
+#fightingLabel {
+    background-color: #92904B;
+}
+
+#racingLabel {
+    background-color: #26714D;
+}
+
+#horrorLabel {
+    background-color: black;
+    border-color: gray;
+}
+
+#partyLabel {
+    background-color: lightcoral;
+}
+
+/* MEDIA */
+
+@media (max-width: 1415px) {
+    #labels {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (max-width: 1110px) {
+    #labels {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (max-width: 905px) {
+    #genresLabel {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 790px) {
+     #labels {
+        gap: 1rem;
+    }
+
+    #legend {
+        font-size: 0.8rem;
+    }
+
+    .labelBlock {
+        width: 0.5rem;
+        height: 0.5rem;
+    
+        border: 1px solid black;
+    }
+
+    .labelText {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 630px) {
+    #labels {
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 1.5rem;
+    }
+
+    #genresLabel {
+        gap: 1rem;
+        justify-content: space-evenly;
+    }
+}
+
+@media (max-width: 520px) {
+    #legend {
+        font-size: 0.7rem;
+    }
+
+    .labelText {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 490px) {
+    #labels {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 390px) {
+    #legend {
+        font-size: 0.6rem;
+    }
+
+    .labelText {
+        font-size: 0.6rem;
+    }
+}

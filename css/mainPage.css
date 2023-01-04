@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2rem;
+    font-family: 'Chivo Mono', sans-serif;
+
+    background-color: #071040;
+}
+
+/* HEADER DO SITE (LOGO E BOTÕES DE CORES) */
+
+header {
+    border: 4px solid #1F8C8E;
+    border-radius: 0.5rem;
+    background-color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    padding: 2rem;
+
+    margin-bottom: 2rem;
+}
+
+/* SEÇÃO PRINCIPAL DA PÁGINA */
+
+main {
+    border: 4px solid #1F8C8E;
+    border-radius: 0.5rem;
+    background-color: white;
+
+    padding: 2rem;
+}
+
+section {
+    border: 4px solid #1F8C8E;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+}
+
+ul {
+    padding-left: 0rem;
+    list-style: none;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    gap: 2rem;
+}
+
+/* ANIMAÇÃO */
+
+ul div {
+    animation: fromTop .7s backwards;
+    animation-delay: .25s;
+}
+
+@keyframes fromTop {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fromBottom {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* MEDIA */
+
+@media (max-width: 1060px) {
+    #logo {
+        width: 90%;
+    }
+}
+
+@media (max-width: 490px) {
+    header {
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 375px) {
+    main {
+        padding: 1.5rem;
+    }
+
+    body {
+        padding: 1.5rem;
+    }
+
+    ul {
+        gap: 1.5rem;
+    }
+}

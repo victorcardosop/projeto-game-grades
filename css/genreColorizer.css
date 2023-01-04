@@ -1,0 +1,72 @@
+/* DIV COLORIZER: COLORIZAÇÃO DOS GÊNEROS DOS JOGOS */
+
+.colorizer {
+    display: flex;
+    border-radius: 0.9rem;
+
+    border-bottom: 8px solid white;
+}
+
+.colorizer.action {
+    border-color: #E59B06;
+}
+
+.colorizer.metroidvania {
+    border-color: #6407C1;
+}
+
+.colorizer.fps {
+    border-color: #582519;
+}
+
+.colorizer.stealth {
+    border-color: gray;
+}
+
+.colorizer.platform {
+    border-color: #17DFD6;
+}
+
+.colorizer.adventure {
+    border-color: #EDF10A;
+}
+
+.colorizer.sandbox {
+    border-color: royalblue;
+}
+
+.colorizer.strategy {
+    border-color: #22E515;
+}
+
+.colorizer.rpg {
+    border-color: #037185;
+}
+
+.colorizer.roguelike {
+    border-color: #D426E8;
+}
+
+.colorizer.soulslike {
+    border-color: crimson;
+}
+
+.colorizer.sports {
+    border-color: goldenrod;
+}
+
+.colorizer.fighting {
+    border-color: #92904B;
+}
+
+.colorizer.racing {
+    border-color: #26714D;
+}
+
+.colorizer.horror {
+    border-color: black;
+}
+
+.colorizer.party {
+    border-color: lightcoral;
+}

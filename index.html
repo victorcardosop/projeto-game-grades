@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Victor's Game Grades</title>
+        <link rel="stylesheet" href="./css/mainPage.css">
+        <link rel="stylesheet" href="./css/selection.css">
+        <link rel="stylesheet" href="./css/platformStylization.css">
+        <link rel="stylesheet" href="./css/labelStylization.css">
+        <link rel="stylesheet" href="./css/genreColorizer.css">
+        <link rel="stylesheet" href="./css/gameList.css">
+        <!-- CONTEÚDO REMOVIDO DA PÁGINA -->
+        <!-- <link rel="stylesheet" href="./css/colorChangeButtons-removed.css"> -->
+        
+        <!-- FONTE CHIVO MONO -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@300;500;700&display=swap" rel="stylesheet">
+
+        <link rel="icon" href="./assets/favicon.ico">
+    </head>
+    <body>
+        <header>
+            <!-- CONTEÚDO REMOVIDO DA PÁGINA -->
+            <!-- <div class="divider">
+                <a id="blue" class="colorChanger">Azul</a>
+                <a id="orange" class="colorChanger">Laranja</a>
+            </div> -->
+            <img src="./assets/logo.jpg" id="logo" alt="Logo de Victor's Game Grades">
+            <!-- CONTEÚDO REMOVIDO DA PÁGINA -->
+            <!-- <div class="divider">
+                <a id="green" class="colorChanger">Verde</a>
+                <a id="red" class="colorChanger">Vermelho</a>
+            </div>     -->
+        </header>
+        <main>
+            <section id="selection">
+                <form action="" id="selectors">
+                        <div class="inputUnit" id="search">
+                            <strong>Pesquisar jogo:</strong>
+                            <input type="text" id="searchGame" name="gameSearch" list="searchterms" placeholder="Digite o jogo a ser pesquisado..." size="40" aria-label="Campo de pesquisa: Digite o jogo a ser pesquisado...">
+                        </div>
+                        <div class="inputUnit" id="grades">
+                        <strong>Pesquisar por nota:</strong>
+                        <select name="grade" id="chooseGrade">
+                            <option value="">Mostrar Todos</option>
+                            <option value="10">10</option>
+                            <option value="9.75">9.75</option>
+                            <option value="9.5">9.5</option>
+                            <option value="9.25">9.25</option>
+                            <option value="9">9</option>
+                            <option value="8.75">8.75</option>
+                            <option value="8.5">8.5</option>
+                            <option value="8.25">8.25</option>
+                            <option value="8">8</option>
+                            <option value="7.75">7.75</option>  
+                            <option value="7.5">7.5</option>
+                            <option value="7.25">7.25</option>
+                            <option value="7">7</option>
+                            <option value="6.75">6.75</option>
+                            <option value="6.5">6.5</option>
+                            <option value="6.25">6.25</option>
+                            <option value="6">6</option>
+                            <option value="5.75">5.75</option>
+                            <option value="5.5">5.5</option>
+                            <option value="5.25">5.25</option>
+                            <option value="5">5</option>
+                            <option value="4.75">4.75</option>
+                            <option value="4.5">4.5</option>
+                            <option value="4.25">4.25</option>
+                            <option value="4">4</option>
+                            <option value="3.75">3.75</option>
+                            <option value="3.5">3.5</option>
+                            <option value="3.25">3.25</option>
+                            <option value="3">3</option>
+                            <option value="2.75">2.75</option>
+                            <option value="2.5">2.5</option>
+                            <option value="2.25">2.25</option>
+                            <option value="2">2</option>
+                            <option value="1.75">1.75</option>
+                            <option value="1.5">1.5</option>
+                            <option value="1.25">1.25</option>
+                            <option value="1">1</option>
+                            <option value="0.75">0.75</option>
+                            <option value="0.5">0.5</option>
+                            <option value="0.25">0.25</option>
+                            <option value="0">0</option>                                               
+                        </select>
+                    </div>
+                    <div class="inputUnit" id="alphabeticalOrder">
+                        <strong>Ordenar por ordem alfabética:</strong>
+                        <select name="alphabetical" id="chooseOrder">
+                            <option value="none">Selecione uma ordem...</option>
+                            <option value="a-z">Ordem alfabética (A-Z)</option>
+                            <option value="z-a">Ordem alfabética (Z-A)</option>
+                        </select> 
+                    </div>
+                    <div class="inputUnit" id="genres">
+                        <strong>Pesquisar por Gênero:</strong>
+                        <select name="gameGenres" id="chooseGenre">
+                            <option value="">Todos os Gêneros</option>
+                            <option value="action">Ação</option>
+                            <option value="adventure">Aventura</option>
+                            <option value="racing">Corrida</option>
+                            <option value="sports">Esportes</option>
+                            <option value="strategy">Estratégia</option>
+                            <option value="fps">FPS</option>
+                            <option value="fighting">Luta</option>
+                            <option value="metroidvania">Metroidvania</option>
+                            <option value="party">Party</option>
+                            <option value="platform">Plataforma</option>
+                            <option value="roguelike">Roguelike</option>
+                            <option value="rpg">RPG</option>
+                            <option value="sandbox">Sandbox</option>
+                            <option value="soulslike">Soulslike</option>
+                            <option value="stealth">Stealth</option>
+                            <option value="horror">Terror</option>
+                        </select>
+                    </div>
+                    <div class="inputUnit" id="platforms">
+                        <strong>Pesquisar por plataforma:</strong>
+                        <select name="gamePlatforms" id="choosePlatform">
+                            <option value="">Todas as Plataformas</option>
+                            <option value="gc">GameCube</option>
+                            <option value="gba">GBA</option>
+                            <option value="msx">MSX</option>
+                            <option value="nes">Nintendo</option>
+                            <option value="3ds">Nintendo 3DS</option>
+                            <option value="n64">Nintendo 64</option>
+                            <option value="nds">Nintendo DS</option>
+                            <option value="switch">Nintendo Switch</option>
+                            <option value="wii">Nintendo Wii</option>
+                            <option value="nwu">Nintendo Wii U</option>
+                            <option value="pc">PC</option>
+                            <option value="ps1">Playstation 1</option>
+                            <option value="ps2">Playstation 2</option>
+                            <option value="ps3">Playstation 3</option>
+                            <option value="ps4">Playstation 4</option>
+                            <option value="ps5">Playstation 5</option>
+                            <option value="super nintendo">Super Nintendo</option>
+                            <option value="xbox360">Xbox 360</option>
+                        </select>
+                    </div>
+                </form>
+            </section>
+            <section id="genresLabel">
+                <strong id="legend">Legenda: </strong>
+                <div id="labels">
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="actionLabel"></div><span class="labelText">Ação</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="adventureLabel"></div><span class="labelText">Aventura</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="racingLabel"></div><span class="labelText">Corrida</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="sportsLabel"></div><span class="labelText">Esportes</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="strategyLabel"></div><span class="labelText">Estratégia</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="fpsLabel"></div><span class="labelText">FPS</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="fightingLabel"></div><span class="labelText">Luta</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="metroidvaniaLabel"></div><span class="labelText">Metroidvania</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="partyLabel"></div><span class="labelText">Party</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="platformLabel"></div><span class="labelText">Plataforma</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="roguelikeLabel"></div><span class="labelText">Roguelike</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="rpgLabel"></div><span class="labelText">RPG</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="sandboxLabel"></div><span class="labelText">Sandbox</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="soulslikeLabel"></div><span class="labelText">Soulslike</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="stealthLabel"></div><span class="labelText">Stealth</span>
+                    </div>
+                    <div class="labelUnit">
+                        <div class="labelBlock" id="horrorLabel"></div><span class="labelText">Terror</span>
+                    </div>
+                </div>
+            </section>
+            <section id="gamesList">
+                <div id="count">
+                    <!-- CONTADOR AQUI -->
+                </div>    
+                <ul id="games">
+                    <!-- JOGOS AQUI -->
+                </ul>
+            </section> 
+        </main>
+    </body>
+    <script src="./js/main.js"></script>
+    <script src="./js/searchFilter.js"></script>
+    <!-- CONTEÚDO REMOVIDO DA PÁGINA -->
+    <!-- <script src="./js/color-changer-removed.js"></script> -->
+</html>
