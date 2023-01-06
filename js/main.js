@@ -19,6 +19,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-188x250.jpg','Elden Ring (2022)','ps4','PS4/PS5','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/509398_IGDB-188x250.jpg','Kaze and the Wild Masks (2021)','pc','PC','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/8793_IGDB-188x250.jpg','Metal Gear Solid: The Twin Snakes (1998/2004)','gc','NGC/PS1','10','stealth') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/24872_IGDB-188x250.jpg',"Nioh Remastered (2021)",'ps5','PS5','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB-188x250.jpg',"Super Mario World (1990)",'snes','Super Nintendo','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/517585_IGDB-188x250.jpg','UnMetal (2021)','pc','PC','10','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/29099_IGDB-188x250.jpg',"Bioshock Infinite (2013)",'ps4','Xbox360/PS4','9.75','fps') +
@@ -37,7 +38,6 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6369_IGDB-188x250.jpg','God of War (2018)','ps4','PS4','9.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/666_IGDB-188x250.jpg',"Metal Gear 2: Solid Snake (1990)",'msx','MSX','9.5','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/18893_IGDB-188x250.jpg',"Metal Gear Solid 4: Guns of the Patriots (2008)",'ps3','PS3','9.5','stealth') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/24872_IGDB-188x250.jpg',"Nioh Remastered (2021)",'ps5','PS5','9.5','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518019_IGDB-188x250.jpg',"Returnal (2021)",'ps5','PS5','9.5','roguelike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369590_IGDB-188x250.jpg',"Super Mario 3D World (2013)",'wiiU','NWU','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.5','platform') +
@@ -52,6 +52,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/16791_IGDB-188x250.jpg',"Ratchet & Clank (2016)",'ps4','PS4','9.25','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/30826_IGDB-188x250.jpg',"Super Mario 3D Land (2011)",'n3ds','3DS','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/9455_IGDB-188x250.jpg',"Super Mario Bros. 3 All-Stars(1988/1993)",'snes','Super Nintendo','9.25','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/31376_IGDB-188x250.jpg',"Terraria (2011)",'pc','Xbox360/PC/PS4','9.25','sandbox') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489642_IGDB-188x250.jpg','Bloodstained: Ritual of the Night (2019)','ps4','PS4','9','metroidvania') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/499856_IGDB-188x250.jpg',"Ghost of Tsushima (2020)",'ps4','PS4','9','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15104_IGDB-188x250.jpg',"Mega Man 6 (1993)",'nes','NES','9','platform') +
@@ -64,7 +65,6 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1376327401_IGDB-188x250.jpg',"Horizon Chase Turbo (2018)",'pc','PC/PS4','8.75','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7457_IGDB-188x250.jpg',"Mega Man 4 (1991)",'nes','NES','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11386_IGDB-188x250.jpg',"Metal Gear Solid 2: Sons of Liberty (2001)",'ps2','PS2/Xbox360','8.75','stealth') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/31376_IGDB-188x250.jpg',"Terraria (2011)",'pc','Xbox360/PC/PS4','8.75','sandbox') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/496960_IGDB-188x250.jpg',"Assassin's Creed Origins (2017)",'ps4','PS4','8.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/988100999_IGDB-188x250.jpg',"Demon's Souls (2009/2020)",'ps5','PS5','8.5','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/418063_IGDB-188x250.jpg',"Five Nights at Freddy's (2014)",'pc','PC','8.5','horror') +
