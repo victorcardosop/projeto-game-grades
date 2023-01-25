@@ -17,7 +17,11 @@
     let genreDiv = document.querySelectorAll('.colorizer')
     for(i = 0; i < genreDiv.length ; i++) {
         genres[i] = genreDiv[i].classList[1]
+        if (genreDiv[i].classList[2] !== undefined) {
+            genres[i] += ` ${genreDiv[i].classList[2]}`
+        }
     }
+    console.log(genres)
 
     let platforms = []
     let platformH3 = document.querySelectorAll('h3')
