@@ -43,12 +43,15 @@
 
 .game:hover {
     color: white;
-    filter: brightness(1.3);
+    filter: brightness(1.15);
 }
 
 .gameImage {
     border: 1px solid #071040;
     border-radius: 0.5rem;
+
+    width: 188px;
+    height: 250px;
 }
 
 .game img:hover {
@@ -138,6 +141,7 @@
 
     #games .game img {
         width: 80%;
+        height: 80%;
     }
 
     #games .game h2 {
