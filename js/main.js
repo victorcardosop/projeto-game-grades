@@ -21,6 +21,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/8793_IGDB-188x250.jpg','Metal Gear Solid: The Twin Snakes (1998/2004)','gc','NGC/PS1','10','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/16582_IGDB-188x250.jpg',"Metal Gear Solid 3: Snake Eater (2004)",'ps2','PS2/Xbox360','10','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24872_IGDB-188x250.jpg',"Nioh Remastered (2017/2021)",'ps5','PS5','10','soulslike') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/506468_IGDB-188x250.jpg',"Nioh 2 Remastered (2020/2021)",'ps5','PS5','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/14766_IGDB-188x250.jpg',"Super Mario Galaxy (2007)",'wii','Wii','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24239_IGDB-188x250.jpg',"Super Mario Galaxy 2 (2010)",'wii','Wii','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB-188x250.jpg',"Super Mario World (1990)",'snes','Super Nintendo','10','platform') +
