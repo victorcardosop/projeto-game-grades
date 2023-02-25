@@ -21,7 +21,6 @@
             genres[i] += ` ${genreDiv[i].classList[2]}`
         }
     }
-    console.log(genres)
 
     let platforms = []
     let platformH3 = document.querySelectorAll('h3')

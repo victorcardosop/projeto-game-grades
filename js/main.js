@@ -95,6 +95,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/69_IGDB-188x250.jpg',"Crash Bandicoot: The Wrath of Cortex (2001)",'ps2','PS2','8','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/488559_IGDB-188x250.jpg',"Five Nights at Freddy's 2 (2014)",'pc','PC','8','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/13220_IGDB-188x250.jpg',"Pac-Man Fever (2002)",'ps2','PS2/NGC','8','party') +
+    createGame('./assets/game-covers/sr2-to-the-moon.jpg',"SM64 Star Revenge 2: Act 1: To The Moon (Hack ROM)(2017)",'n64','N64','8','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/491769_IGDB-188x250.jpg',"Sniper Elite 4 (2017)",'ps4','PS4','8','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/506235_IGDB-188x250.jpg',"Team Sonic Racing (2019)",'ps4','PS4','8','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1200871695_IGDB-188x250.jpg',"The Last of Us Remastered (2013/2014)",'ps4','PS4','8','action') +
