@@ -34,6 +34,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/509398_IGDB-188x250.jpg','Kaze and the Wild Masks (2021)','pc','PC','9.75','platform indie') +
     createGame('./assets/game-covers/newer-super-mario-bros-wii.JPG',"Newer Super Mario Bros. Wii (Hack ROM)(2013)",'wii','Wii','9.75','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518019_IGDB-188x250.jpg',"Returnal (2021)",'ps5','PS5','9.75','roguelike') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94073_IGDB-188x250.jpg',"The Binding of Isaac: Rebirth (2014)",'ps4','PS4/PC','9.75','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2143844298_IGDB-188x250.jpg',"Bioshock 2 Remastered (2010/2016)",'ps4','PS4','9.5','fps') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1667555869_IGDB-188x250.jpg',"Castlevania: Symphony of the Night (1997)",'ps1','PS1','9.5','metroidvania') +
@@ -45,7 +46,6 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/18893_IGDB-188x250.jpg',"Metal Gear Solid 4: Guns of the Patriots (2008)",'ps3','PS3','9.5','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/16791_IGDB-188x250.jpg',"Ratchet & Clank (2016)",'ps4','PS4','9.5','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369590_IGDB-188x250.jpg',"Super Mario 3D World (2013)",'wiiU','NWU','9.5','platform') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489642_IGDB-188x250.jpg','Bloodstained: Ritual of the Night (2019)','ps4','PS4','9.25','metroidvania') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 1 N. Sane Trilogy (1996/2017)",'ps4','PS4','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/13565_IGDB-188x250.jpg',"Crash Twinsanity (2004)",'ps2','PS2','9.25','platform') +
@@ -67,6 +67,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11386_IGDB-188x250.jpg',"Metal Gear Solid 2: Sons of Liberty (2001)",'ps2','PS2/Xbox360','9','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg','Minecraft (2011)','pc','PC/PS4','9','sandbox') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/31905_IGDB-188x250.jpg',"New Super Mario Bros. U (2012)",'wiiU','NWU','9','platform') +
+    createGame('./assets/game-covers/sr3.5-vacation-of-cursed-dreams.jpg',"SM64 Star Revenge 3.5: Vacation of Cursed Dreams (Hack ROM)(2018)",'n64','N64','9','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','9','roguelike indie') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 2 N. Sane Trilogy (1997/2017)",'ps4','PS4','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
