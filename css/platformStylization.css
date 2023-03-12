@@ -119,3 +119,9 @@
 
     border: 2px solid lightgray;
 }
+
+.game .xbox360 {
+    background-color: #0bbd0b;
+    color: white;
+    border: 2px solid black;
+}
