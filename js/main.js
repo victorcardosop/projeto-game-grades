@@ -91,13 +91,14 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1124_IGDB-188x250.jpg',"Mega Man 5 (1992)",'nes','NES','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7001_IGDB-188x250.jpg',"Mortal Kombat: Shaolin Monks (2005)",'ps2','PS2','8.5','action') +
     createGame('./assets/game-covers/new-super-mario-world-1-the-twelve-magic-orbs-2016.jpg',"New Super Mario World 1: The Twelve Magic Orbs (Hack ROM)(2016)",'snes','Super Nintendo','8.5','platform hackrom') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/11585_IGDB-188x250.jpg',"Robots (2005)",'pc','PC/PS2','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513459_IGDB-188x250.jpg',"Songs for a Hero (2016)",'pc','PC','8.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/22720_IGDB-188x250.jpg',"Super Meat Boy (2010)",'pc','Xbox360/PC/PS4','8.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10023_IGDB-188x250.jpg',"Hot Wheels: Stunt Track Challenge (2004)",'pc','PC/PS2','8.25','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/12870_IGDB-188x250.jpg',"Mega Man 2 (1988)",'nes','NES','8.25','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/11831_IGDB-188x250.jpg',"Pac-Man World 3 (2005)",'ps2','PS2/PC/PSP','8.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/28593_IGDB-188x250.jpg',"Paper Mario: Sticker Star (2012)",'n3ds','3DS','8.25','rpg') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/9786_IGDB-188x250.jpg',"Predator: Concrete Jungle (2005)",'ps2','PS2','8.25','action') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/11585_IGDB-188x250.jpg',"Robots (2005)",'pc','PC/PS2','8.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/133423_IGDB-188x250.jpg',"Sniper Elite III (2014)",'ps4','PS4','8.25','stealth') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 3 N. Sane Trilogy (1998/2017)",'ps4','PS4','8','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/488559_IGDB-188x250.jpg',"Five Nights at Freddy's 2 (2014)",'pc','PC','8','horror indie') +
