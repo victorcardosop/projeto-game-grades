@@ -42,6 +42,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB-188x250.jpg',"Celeste (2018)",'pc','PC/PS4','9.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/5682_IGDB-188x250.jpg',"Crash Team Racing (1999)",'ps1','PS1','9.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/459064_IGDB-188x250.jpg',"Cuphead (2017)",'pc','PC','9.5','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/165338793_IGDB-188x250.jpg',"Donkey Kong Country (1994)",'snes','Super Nintendo','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6369_IGDB-188x250.jpg','God of War (2018)','ps4','PS4','9.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/666_IGDB-188x250.jpg',"Metal Gear 2: Solid Snake (1990)",'msx','MSX','9.5','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/14805_IGDB-188x250.jpg','Metal Gear Solid (1998)','ps1','PS1','9.5','stealth') +
