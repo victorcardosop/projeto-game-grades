@@ -32,6 +32,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/510579_IGDB-188x250.jpg',"Crash Team Racing Nitro-Fueled (2019)",'ps4','PS4','9.75','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-188x250.jpg',"Dark Souls III (2016)",'ps4','PS4','9.75','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1594393054_IGDB-188x250.jpg',"Death Stranding: Director's Cut (2019/2021)",'ps5','PS5','9.75','action') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/15483_IGDB-188x250.jpg',"Donkey Kong Country 2: Diddy's Kong Quest (1995)",'snes','Super Nintendo','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/509398_IGDB-188x250.jpg','Kaze and the Wild Masks (2021)','pc','PC','9.75','platform indie') +
     createGame('./assets/game-covers/newer-super-mario-bros-wii.JPG',"Newer Super Mario Bros. Wii (Hack ROM)(2013)",'wii','Wii','9.75','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518019_IGDB-188x250.jpg',"Returnal (2021)",'ps5','PS5','9.75','roguelike') +
