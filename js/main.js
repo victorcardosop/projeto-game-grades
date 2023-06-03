@@ -92,7 +92,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/418063_IGDB-188x250.jpg',"Five Nights at Freddy's (2014)",'pc','PC','8.5','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15477_IGDB-188x250.jpg',"Hogs of War (2000)",'ps1','PS1/PC','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490374_IGDB-188x250.jpg',"Horizon Zero Dawn (2017)",'ps4','PS4','8.5','adventure') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/489398_IGDB-188x250.jpg','Klonoa (2008)','wii','Wii','8.5','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/489398_IGDB-188x250.jpg','Klonoa (1997/2008)','wii','Wii','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/28577_IGDB-188x250.jpg',"Mario vs Donkey Kong: Mini-Land Mayhem! (2010)",'nds','NDS','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1124_IGDB-188x250.jpg',"Mega Man 5 (1992)",'nes','NES','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7001_IGDB-188x250.jpg',"Mortal Kombat: Shaolin Monks (2005)",'ps2','PS2','8.5','action') +
@@ -120,7 +120,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6139_IGDB-188x250.jpg',"Metal Gear (1987)",'msx','MSX','7.75','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10263_IGDB-188x250.jpg',"Kao the Kangaroo: Round 2 (2003/2019)",'pc','PC','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7534_IGDB-188x250.jpg',"New Super Mario Bros. (2006)",'nds','NDS','7.75','platform') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/18453_IGDB-188x250.jpg',"Pac-Man World 2 (2002)",'ps2','PS2/PC/GC','7.75','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/18453_IGDB-188x250.jpg',"Pac-Man World 2 (2002)",'ps2','PS2/PC/NGC','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/493651986_IGDB-188x250.jpg',"Disney's Donald Duck: Goin' Quackers (2000)",'ps1','PS1','7.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497385_IGDB-188x250.jpg',"Dragon Ball Fighter Z (2019)",'ps4','PS4','7.5','fighting') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/505371_IGDB-188x250.jpg',"Marvel's Spider Man (2018)",'ps4','PS4/PS5','7.5','action') +
