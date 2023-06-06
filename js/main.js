@@ -79,6 +79,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','9','roguelike indie') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 2 N. Sane Trilogy (1997/2017)",'ps4','PS4','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/6594_IGDB-188x250.jpg',"Klonoa 2: Lunatea's Veil (2001)",'ps2','PS2','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7457_IGDB-188x250.jpg',"Mega Man 4 (1991)",'nes','NES','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518020_IGDB-188x250.jpg','Sackboy: A Big Adventure (2020)','ps4','PS4/PS5','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497349_IGDB-188x250.jpg',"The End is Nigh (2017)",'pc','PC','8.75','platform indie') +
