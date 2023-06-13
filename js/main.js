@@ -139,6 +139,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1634139700_IGDB-188x250.jpg',"Super Chicken Jumper (2021)",'pc','PC','7','action indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7009_IGDB-188x250.jpg',"Crash Bandicoot: The Huge Adventure (2002)",'gba','GBA','6.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/20776_IGDB-188x250.jpg',"M&M's Shell Shocked (2001)",'ps1','PS1','6.75','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/476396_IGDB-188x250.jpg',"Super Meat Boy Forever (2020)",'ps4','PS4','6.75','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/460129_IGDB-188x250.jpg',"20XX (2014)",'pc','PC','6.5','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/4815_IGDB-188x250.jpg',"Mega Man (1987)",'nes','NES','6.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/19008_IGDB-188x250.jpg',"Crash: Mind Over Mutant (2008)",'ps2','PS2','6','platform') +
