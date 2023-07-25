@@ -35,6 +35,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15483_IGDB-188x250.jpg',"Donkey Kong Country 2: Diddy's Kong Quest (1995)",'snes','Super Nintendo','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/4162_IGDB-188x250.jpg',"Donkey Kong Country 3: Dixie Kong's Double Trouble! (1996)",'snes','Super Nintendo','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/509398_IGDB-188x250.jpg','Kaze and the Wild Masks (2021)','pc','PC','9.75','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/91419_IGDB-188x250.jpg',"Metal Gear Solid V: The Phantom Pain (2015)",'ps4','PS4','9.75','stealth') +
     createGame('./assets/game-covers/newer-super-mario-bros-wii.JPG',"Newer Super Mario Bros. Wii (Hack ROM)(2013)",'wii','Wii','9.75','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518019_IGDB-188x250.jpg',"Returnal (2021)",'ps5','PS5','9.75','roguelike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.75','platform') +
@@ -81,6 +82,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6594_IGDB-188x250.jpg',"Klonoa 2: Lunatea's Veil (2001)",'ps2','PS2','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7457_IGDB-188x250.jpg',"Mega Man 4 (1991)",'nes','NES','8.75','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/67834_IGDB-188x250.jpg',"Metal Gear Solid V: Ground Zeroes (2014)",'ps4','PS4','8.75','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518020_IGDB-188x250.jpg','Sackboy: A Big Adventure (2020)','ps4','PS4/PS5','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497349_IGDB-188x250.jpg',"The End is Nigh (2017)",'pc','PC','8.75','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490372_IGDB-188x250.jpg',"Trackmania Turbo (2016)",'ps4','PS4','8.75','racing') +
