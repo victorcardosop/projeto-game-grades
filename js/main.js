@@ -120,12 +120,14 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/26821_IGDB-188x250.jpg',"VVVVVV (2010)",'pc','PC','8','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15593_IGDB-188x250.jpg',"Warzone 2100 (1999/2004)",'pc','PC','8','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/14625_IGDB-188x250.jpg',"Crash Bash (2000)",'ps1','PS1','7.75','party') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/94884_IGDB-188x250.jpg',"Hotline Miami 2: Wrong Number (2015)",'ps4','PS4','7.75','action indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6139_IGDB-188x250.jpg',"Metal Gear (1987)",'msx','MSX','7.75','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10263_IGDB-188x250.jpg',"Kao the Kangaroo: Round 2 (2003/2019)",'pc','PC','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7534_IGDB-188x250.jpg',"New Super Mario Bros. (2006)",'nds','NDS','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/18453_IGDB-188x250.jpg',"Pac-Man World 2 (2002)",'ps2','PS2/PC/NGC','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/493651986_IGDB-188x250.jpg',"Disney's Donald Duck: Goin' Quackers (2000)",'ps1','PS1','7.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497385_IGDB-188x250.jpg',"Dragon Ball Fighter Z (2019)",'ps4','PS4','7.5','fighting') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/66254_IGDB-188x250.jpg',"Hotline Miami (2012)",'ps4','PS4','7.5','action indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/505371_IGDB-188x250.jpg',"Marvel's Spider Man (2018)",'ps4','PS4/PS5','7.5','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/4133_IGDB-188x250.jpg',"Mega Man 3 (1990)",'nes','NES','7.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/34158_IGDB-188x250.jpg',"New Super Mario Bros. 2 (2012)",'n3ds','3DS','7.5','platform') +
