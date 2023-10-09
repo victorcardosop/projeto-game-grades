@@ -28,7 +28,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB-188x250.jpg',"Super Mario World (1990)",'snes','Super Nintendo','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/517585_IGDB-188x250.jpg','UnMetal (2021)','pc','PC','10','stealth indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2009742488_IGDB-188x250.jpg',"Bioshock Remastered (2007/2016)",'ps4','PS4','9.75','fps') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1461160776_IGDB-188x250.jpg',"Crash Bandicoot 2: Cortex Strikes Back (1997)",'ps1','PS1','9.75','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/7934_IGDB-188x250.jpg',"Crash Bandicoot 2: Cortex Strikes Back (1997)",'ps1','PS1','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/510579_IGDB-188x250.jpg',"Crash Team Racing Nitro-Fueled (2019)",'ps4','PS4','9.75','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-188x250.jpg',"Dark Souls III (2016)",'ps4','PS4','9.75','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1594393054_IGDB-188x250.jpg',"Death Stranding: Director's Cut (2019/2021)",'ps5','PS5','9.75','action') +
@@ -65,6 +65,8 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24238_IGDB-188x250.jpg',"New Super Mario Bros. Wii (2009)",'wii','Wii','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/59_IGDB-188x250.jpg',"Pac-Man World (1999)",'ps1','PS1','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518016_IGDB-188x250.jpg',"Ratchet & Clank: Rift Apart (2021)",'ps5','PS5','9.25','action') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/725811421_IGDB-188x250.jpg',"Spyro 2: Ripto's Rage Reignited Trilogy (1999/2018)",'ps4','PS4','9.25','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1916268396_IGDB-188x250.jpg',"Spyro: Year of the Dragon Reignited Trilogy (2000/2018)",'ps4','PS4','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/30826_IGDB-188x250.jpg',"Super Mario 3D Land (2011)",'n3ds','3DS','9.25','platform') +
     createGame('./assets/game-covers/sr3.5-vacation-of-cursed-dreams.jpg',"SM64 Star Revenge 3.5: Vacation of Cursed Dreams (Hack ROM)(2018)",'n64','N64','9.25','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/9455_IGDB-188x250.jpg',"Super Mario Bros. 3 All-Stars(1988/1993)",'snes','Super Nintendo','9.25','platform') +
@@ -77,6 +79,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg','Minecraft (2011)','pc','PC/PS4','9','sandbox') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/31905_IGDB-188x250.jpg',"New Super Mario Bros. U (2012)",'wiiU','NWU','9','platform') +
     createGame('./assets/game-covers/sr4.5-the-kedama-takeover-rewritten.jpg',"SM64 Star Revenge 4.5: The Kedama Takeover Rewritten (Hack ROM)(2016)",'n64','N64','9','platform hackrom') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1885901697_IGDB-188x250.jpg',"Spyro the Dragon Reignited Trilogy (1998/2018)",'ps4','PS4','9','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','9','roguelike indie') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 2 N. Sane Trilogy (1997/2017)",'ps4','PS4','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
