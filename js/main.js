@@ -41,6 +41,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94073_IGDB-188x250.jpg',"The Binding of Isaac: Rebirth (2014)",'ps4','PS4/PC','9.75','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2143844298_IGDB-188x250.jpg',"Bioshock 2 Remastered (2010/2016)",'ps4','PS4','9.5','fps') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/489642_IGDB-188x250.jpg','Bloodstained: Ritual of the Night (2019)','ps4','PS4','9.5','metroidvania indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1667555869_IGDB-188x250.jpg',"Castlevania: Symphony of the Night (1997)",'ps1','PS1','9.5','metroidvania') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB-188x250.jpg',"Celeste (2018)",'pc','PC/PS4','9.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/5682_IGDB-188x250.jpg',"Crash Team Racing (1999)",'ps1','PS1','9.5','racing') +
@@ -54,7 +55,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369590_IGDB-188x250.jpg',"Super Mario 3D World (2013)",'wiiU','NWU','9.5','platform') +
     createGame('./assets/game-covers/sr1-star-takeover.jpg',"SM64 Star Revenge 1.5: Star Takeover Redone (Hack ROM)(2020)",'n64','N64','9.5','platform hackrom') +
     createGame('./assets/game-covers/smwcp2-2022.JPG',"Super Mario World Central Production 2 (Hack ROM)(2022)",'snes','Super Nintendo','9.5','platform hackrom') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/489642_IGDB-188x250.jpg','Bloodstained: Ritual of the Night (2019)','ps4','PS4','9.25','metroidvania indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/369075_IGDB-188x250.jpg','A Hat in Time (2017)','ps4','PS4','9.25','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6756_IGDB-188x250.jpg',"Crash Bandicoot (1996)",'ps1','PS1','9.25','platform') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 1 N. Sane Trilogy (1996/2017)",'ps4','PS4','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/13565_IGDB-188x250.jpg',"Crash Twinsanity (2004)",'ps2','PS2','9.25','platform') +
