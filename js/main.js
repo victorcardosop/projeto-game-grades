@@ -90,7 +90,6 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/67834_IGDB-188x250.jpg',"Metal Gear Solid V: Ground Zeroes (2014)",'ps4','PS4','8.75','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518020_IGDB-188x250.jpg','Sackboy: A Big Adventure (2020)','ps4','PS4/PS5','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497349_IGDB-188x250.jpg',"The End is Nigh (2017)",'pc','PC','8.75','platform indie') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/496960_IGDB-188x250.jpg',"Assassin's Creed Origins (2017)",'ps4','PS4','8.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/69_IGDB-188x250.jpg',"Crash Bandicoot: The Wrath of Cortex (2001)",'ps2','PS2','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2087_IGDB-188x250.jpg',"Crash Nitro Kart (2003)",'gc','NGC','8.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/19499_IGDB-188x250.jpg',"Crash Tag Team Racing (2005)",'ps2','PS2/PSP','8.5','racing') +
@@ -109,6 +108,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11585_IGDB-188x250.jpg',"Robots (2005)",'pc','PC/PS2','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513459_IGDB-188x250.jpg',"Songs for a Hero (2016)",'pc','PC','8.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/22720_IGDB-188x250.jpg',"Super Meat Boy (2010)",'pc','Xbox360/PC/PS4','8.5','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/496960_IGDB-188x250.jpg',"Assassin's Creed Origins (2017)",'ps4','PS4','8.25','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10023_IGDB-188x250.jpg',"Hot Wheels: Stunt Track Challenge (2004)",'pc','PC/PS2','8.25','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/12870_IGDB-188x250.jpg',"Mega Man 2 (1988)",'nes','NES','8.25','platform') +
     createGame('./assets/game-covers/new-super-mario-world-1-the-twelve-magic-orbs-2016.jpg',"New Super Mario World 1: The Twelve Magic Orbs (Hack ROM)(2016)",'snes','Super Nintendo','8.25','platform hackrom') +
@@ -116,6 +116,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/9786_IGDB-188x250.jpg',"Predator: Concrete Jungle (2005)",'ps2','PS2','8.25','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/133423_IGDB-188x250.jpg',"Sniper Elite III (2014)",'ps4','PS4','8.25','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/506235_IGDB-188x250.jpg',"Team Sonic Racing (2019)",'ps4','PS4','8.25','racing') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/506274_IGDB-188x250.jpg',"Assassin's Creed Odyssey (2018)",'ps4','PS4','8','adventure') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 3 N. Sane Trilogy (1998/2017)",'ps4','PS4','8','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/488559_IGDB-188x250.jpg',"Five Nights at Freddy's 2 (2014)",'pc','PC','8','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/13220_IGDB-188x250.jpg',"Pac-Man Fever (2002)",'ps2','PS2/NGC','8','party') +
