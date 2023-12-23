@@ -99,7 +99,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15477_IGDB-188x250.jpg',"Hogs of War (2000)",'ps1','PS1/PC','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518015_IGDB-188x250.jpg',"Horizon Forbidden West (2022)",'ps4','PS4/PS5','8.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490374_IGDB-188x250.jpg',"Horizon Zero Dawn (2017)",'ps4','PS4','8.5','adventure') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1716516651_IGDB-188x250.jpg',"Hot Wheels Unleashed (2021)",'ps5','PS4/PS5','8.5','racing') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1716516651_IGDB-188x250.jpg',"Hot Wheels Unleashed (2021)",'ps5','PS5','8.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489398_IGDB-188x250.jpg','Klonoa (1997/2008)','wii','Wii','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/28577_IGDB-188x250.jpg',"Mario vs Donkey Kong: Mini-Land Mayhem! (2010)",'nds','NDS','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1124_IGDB-188x250.jpg',"Mega Man 5 (1992)",'nes','NES','8.5','platform') +
@@ -128,6 +128,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15593_IGDB-188x250.jpg',"Warzone 2100 (1999/2004)",'pc','PC','8','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/14625_IGDB-188x250.jpg',"Crash Bash (2000)",'ps1','PS1','7.75','party') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94884_IGDB-188x250.jpg',"Hotline Miami 2: Wrong Number (2015)",'ps4','PS4','7.75','action indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/518007_IGDB-188x250.jpg',"Marvel's Spider Man: Miles Morales (2020)",'ps5','PS5','7.75','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6139_IGDB-188x250.jpg',"Metal Gear (1987)",'msx','MSX','7.75','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10263_IGDB-188x250.jpg',"Kao the Kangaroo: Round 2 (2003/2019)",'pc','PC','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7534_IGDB-188x250.jpg',"New Super Mario Bros. (2006)",'nds','NDS','7.75','platform') +
