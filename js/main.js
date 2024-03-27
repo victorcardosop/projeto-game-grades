@@ -15,6 +15,7 @@ function createGame(image, game, platform, videogame, grade, genre) {
 
 function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/29099_IGDB-188x250.jpg',"Bioshock Infinite (2013)",'ps4','Xbox360/PS4','10','fps') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/460636_IGDB-188x250.jpg','Bloodborne (2015)','ps4','PS4','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11854_IGDB-188x250.jpg','Crash Bandicoot: Warped (1998)','ps1','PS1','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518222_IGDB-188x250.jpg',"Crash Bandicoot 4: It's About Time (2020)",'ps4','PS4/PS5','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1122982998_IGDB-188x250.jpg','Dark Souls: Remastered (2011/2018)','ps4','PS4','10','soulslike') +
