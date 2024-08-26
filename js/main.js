@@ -115,6 +115,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/496960_IGDB-188x250.jpg',"Assassin's Creed Origins (2017)",'ps4','PS4','8.25','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10023_IGDB-188x250.jpg',"Hot Wheels: Stunt Track Challenge (2004)",'pc','PC/PS2','8.25','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/12870_IGDB-188x250.jpg',"Mega Man 2 (1988)",'nes','NES','8.25','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/8027_IGDB-188x250.jpg','Metal Gear Solid VR Missions (1999)','ps1','PS1','8.25','stealth') +
     createGame('./assets/game-covers/new-super-mario-world-1-the-twelve-magic-orbs-2016.jpg',"New Super Mario World 1: The Twelve Magic Orbs (Hack ROM)(2016)",'snes','Super Nintendo','8.25','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/28593_IGDB-188x250.jpg',"Paper Mario: Sticker Star (2012)",'n3ds','3DS','8.25','rpg') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/9786_IGDB-188x250.jpg',"Predator: Concrete Jungle (2005)",'ps2','PS2','8.25','action') +
