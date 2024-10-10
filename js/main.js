@@ -41,6 +41,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518019_IGDB-188x250.jpg',"Returnal (2021)",'ps5','PS5','9.75','roguelike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94073_IGDB-188x250.jpg',"The Binding of Isaac: Rebirth (2014)",'ps4','PS4/PC','9.75','roguelike indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/2109666737_IGDB-188x250.jpg',"Astro Bot (2024)",'ps5','PS5','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2143844298_IGDB-188x250.jpg',"Bioshock 2 Remastered (2010/2016)",'ps4','PS4','9.5','fps') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489642_IGDB-188x250.jpg','Bloodstained: Ritual of the Night (2019)','ps4','PS4','9.5','metroidvania indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1667555869_IGDB-188x250.jpg',"Castlevania: Symphony of the Night (1997)",'ps1','PS1','9.5','metroidvania') +
@@ -88,6 +89,8 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1885901697_IGDB-188x250.jpg',"Spyro the Dragon Reignited Trilogy (1998/2018)",'ps4','PS4','9','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','9','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490372_IGDB-188x250.jpg',"Trackmania Turbo (2016)",'ps4','PS4','9','racing') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/518022_IGDB-188x250.jpg',"Astro's Playroom (2020)",'ps5','PS5','8.75','platform') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 2 N. Sane Trilogy (1997/2017)",'ps4','PS4','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6594_IGDB-188x250.jpg',"Klonoa 2: Lunatea's Veil (2001)",'ps2','PS2','8.75','platform') +
