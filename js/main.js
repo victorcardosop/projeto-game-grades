@@ -41,6 +41,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518019_IGDB-188x250.jpg',"Returnal (2021)",'ps5','PS5','9.75','roguelike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94073_IGDB-188x250.jpg',"The Binding of Isaac: Rebirth (2014)",'ps4','PS4/PC','9.75','roguelike indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/369075_IGDB-188x250.jpg','A Hat in Time (2017)','ps4','PS4','9.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2109666737_IGDB-188x250.jpg',"Astro Bot (2024)",'ps5','PS5','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2143844298_IGDB-188x250.jpg',"Bioshock 2 Remastered (2010/2016)",'ps4','PS4','9.5','fps') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489642_IGDB-188x250.jpg','Bloodstained: Ritual of the Night (2019)','ps4','PS4','9.5','metroidvania indie') +
@@ -58,7 +59,6 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369590_IGDB-188x250.jpg',"Super Mario 3D World (2013)",'wiiU','NWU','9.5','platform') +
     createGame('./assets/game-covers/sr1-star-takeover.jpg',"SM64 Star Revenge 1.5: Star Takeover Redone (Hack ROM)(2020)",'n64','N64','9.5','platform hackrom') +
     createGame('./assets/game-covers/smwcp2-2022.JPG',"Super Mario World Central Production 2 (Hack ROM)(2022)",'snes','Super Nintendo','9.5','platform hackrom') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/369075_IGDB-188x250.jpg','A Hat in Time (2017)','ps4','PS4','9.25','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6756_IGDB-188x250.jpg',"Crash Bandicoot (1996)",'ps1','PS1','9.25','platform') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 1 N. Sane Trilogy (1996/2017)",'ps4','PS4','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/13565_IGDB-188x250.jpg',"Crash Twinsanity (2004)",'ps2','PS2','9.25','platform') +
@@ -89,10 +89,10 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1885901697_IGDB-188x250.jpg',"Spyro the Dragon Reignited Trilogy (1998/2018)",'ps4','PS4','9','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','9','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490372_IGDB-188x250.jpg',"Trackmania Turbo (2016)",'ps4','PS4','9','racing') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518022_IGDB-188x250.jpg',"Astro's Playroom (2020)",'ps5','PS5','8.75','platform') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 2 N. Sane Trilogy (1997/2017)",'ps4','PS4','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/400407464_IGDB-188x250.jpg',"Dragon Ball: Sparking! ZERO (2024)",'ps5','PS5','8.75','fighting') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6594_IGDB-188x250.jpg',"Klonoa 2: Lunatea's Veil (2001)",'ps2','PS2','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7457_IGDB-188x250.jpg',"Mega Man 4 (1991)",'nes','NES','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/67834_IGDB-188x250.jpg',"Metal Gear Solid V: Ground Zeroes (2014)",'ps4','PS4','8.75','stealth') +
@@ -106,7 +106,6 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15477_IGDB-188x250.jpg',"Hogs of War (2000)",'ps1','PS1/PC','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518015_IGDB-188x250.jpg',"Horizon Forbidden West (2022)",'ps4','PS4/PS5','8.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490374_IGDB-188x250.jpg',"Horizon Zero Dawn (2017)",'ps4','PS4','8.5','adventure') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1716516651_IGDB-188x250.jpg',"Hot Wheels Unleashed (2021)",'ps5','PS5','8.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489398_IGDB-188x250.jpg','Klonoa (1997/2008)','wii','Wii','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/28577_IGDB-188x250.jpg',"Mario vs Donkey Kong: Mini-Land Mayhem! (2010)",'nds','NDS','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1124_IGDB-188x250.jpg',"Mega Man 5 (1992)",'nes','NES','8.5','platform') +
@@ -117,6 +116,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/22720_IGDB-188x250.jpg',"Super Meat Boy (2010)",'pc','Xbox360/PC/PS4','8.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/496960_IGDB-188x250.jpg',"Assassin's Creed Origins (2017)",'ps4','PS4','8.25','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10023_IGDB-188x250.jpg',"Hot Wheels: Stunt Track Challenge (2004)",'pc','PC/PS2','8.25','racing') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1716516651_IGDB-188x250.jpg',"Hot Wheels Unleashed (2021)",'ps5','PS5','8.25','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/12870_IGDB-188x250.jpg',"Mega Man 2 (1988)",'nes','NES','8.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/8027_IGDB-188x250.jpg','Metal Gear Solid VR Missions (1999)','ps1','PS1','8.25','stealth') +
     createGame('./assets/game-covers/new-super-mario-world-1-the-twelve-magic-orbs-2016.jpg',"New Super Mario World 1: The Twelve Magic Orbs (Hack ROM)(2016)",'snes','Super Nintendo','8.25','platform hackrom') +
@@ -139,13 +139,14 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94884_IGDB-188x250.jpg',"Hotline Miami 2: Wrong Number (2015)",'ps4','PS4','7.75','action indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518007_IGDB-188x250.jpg',"Marvel's Spider Man: Miles Morales (2020)",'ps5','PS5','7.75','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6139_IGDB-188x250.jpg',"Metal Gear (1987)",'msx','MSX','7.75','stealth') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/10263_IGDB-188x250.jpg',"Kao the Kangaroo: Round 2 (2003/2019)",'pc','PC','7.75','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/10263_IGDB-188x250.jpg',"Kao the Kangaroo: Round 2 (2003/2019)",'pc','PC','7.75','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7534_IGDB-188x250.jpg',"New Super Mario Bros. (2006)",'nds','NDS','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6981_IGDB-188x250.jpg',"Pac-Man (1980)",'arcade','Arcade','7.75','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/18453_IGDB-188x250.jpg',"Pac-Man World 2 (2002)",'ps2','PS2/PC/NGC','7.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/493651986_IGDB-188x250.jpg',"Disney's Donald Duck: Goin' Quackers (2000)",'ps1','PS1','7.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497385_IGDB-188x250.jpg',"Dragon Ball Fighter Z (2019)",'ps4','PS4','7.5','fighting') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/66254_IGDB-188x250.jpg',"Hotline Miami (2012)",'ps4','PS4','7.5','action indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/62203237_IGDB-188x250.jpg',"Kao the Kangaroo (2022)",'ps5','PS5','7.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/505371_IGDB-188x250.jpg',"Marvel's Spider Man (2018)",'ps4','PS4/PS5','7.5','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/4133_IGDB-188x250.jpg',"Mega Man 3 (1990)",'nes','NES','7.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/34158_IGDB-188x250.jpg',"New Super Mario Bros. 2 (2012)",'n3ds','3DS','7.5','platform') +
