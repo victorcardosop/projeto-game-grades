@@ -90,6 +90,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','9','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490372_IGDB-188x250.jpg',"Trackmania Turbo (2016)",'ps4','PS4','9','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518022_IGDB-188x250.jpg',"Astro's Playroom (2020)",'ps5','PS5','8.75','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/11644_IGDB-188x250.jpg',"Castlevania: Rondo of Blood (1993)",'tg16','TG-16','8.75','platform') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 2 N. Sane Trilogy (1997/2017)",'ps4','PS4','8.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513001_IGDB-188x250.jpg',"Immortals Fenyx Rising (2020)",'ps4','PS4/PS5','8.75','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/400407464_IGDB-188x250.jpg',"Dragon Ball: Sparking! ZERO (2024)",'ps5','PS5','8.75','fighting') +
@@ -106,6 +107,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15477_IGDB-188x250.jpg',"Hogs of War (2000)",'ps1','PS1/PC','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518015_IGDB-188x250.jpg',"Horizon Forbidden West (2022)",'ps4','PS4/PS5','8.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490374_IGDB-188x250.jpg',"Horizon Zero Dawn (2017)",'ps4','PS4','8.5','adventure') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/518213_IGDB-188x250.jpg',"It Takes Two (2021)",'ps4','PS4/PS5','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489398_IGDB-188x250.jpg','Klonoa (1997/2008)','wii','Wii','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/28577_IGDB-188x250.jpg',"Mario vs Donkey Kong: Mini-Land Mayhem! (2010)",'nds','NDS','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1124_IGDB-188x250.jpg',"Mega Man 5 (1992)",'nes','NES','8.5','platform') +
@@ -117,6 +119,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/496960_IGDB-188x250.jpg',"Assassin's Creed Origins (2017)",'ps4','PS4','8.25','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10023_IGDB-188x250.jpg',"Hot Wheels: Stunt Track Challenge (2004)",'pc','PC/PS2','8.25','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1716516651_IGDB-188x250.jpg',"Hot Wheels Unleashed (2021)",'ps5','PS5','8.25','racing') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1672045667_IGDB-188x250.jpg',"Hot Wheels Unleashed 2: Turbocharged (2023)",'ps4','PS4/PS5','8.25','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/12870_IGDB-188x250.jpg',"Mega Man 2 (1988)",'nes','NES','8.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/8027_IGDB-188x250.jpg','Metal Gear Solid VR Missions (1999)','ps1','PS1','8.25','stealth') +
     createGame('./assets/game-covers/new-super-mario-world-1-the-twelve-magic-orbs-2016.jpg',"New Super Mario World 1: The Twelve Magic Orbs (Hack ROM)(2016)",'snes','Super Nintendo','8.25','platform hackrom') +
