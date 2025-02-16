@@ -103,7 +103,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2087_IGDB-188x250.jpg',"Crash Nitro Kart (2003)",'gc','NGC','8.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/19499_IGDB-188x250.jpg',"Crash Tag Team Racing (2005)",'ps2','PS2/PSP','8.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/488632_IGDB-188x250.jpg',"Enter the Gungeon (2016)",'ps4','PS4','8.5','roguelike indie') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/418063_IGDB-188x250.jpg',"Five Nights at Freddy's (2014)",'pc','PC','8.5','horror indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/418063_IGDB-188x250.jpg',"Five Nights at Freddy's (2014)",'pc','PC/PS4','8.5','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15477_IGDB-188x250.jpg',"Hogs of War (2000)",'ps1','PS1/PC','8.5','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518015_IGDB-188x250.jpg',"Horizon Forbidden West (2022)",'ps4','PS4/PS5','8.5','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/490374_IGDB-188x250.jpg',"Horizon Zero Dawn (2017)",'ps4','PS4','8.5','adventure') +
@@ -129,13 +129,14 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/506235_IGDB-188x250.jpg',"Team Sonic Racing (2019)",'ps4','PS4','8.25','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/506274_IGDB-188x250.jpg',"Assassin's Creed Odyssey (2018)",'ps4','PS4','8','adventure') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 3 N. Sane Trilogy (1998/2017)",'ps4','PS4','8','platform') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/488559_IGDB-188x250.jpg',"Five Nights at Freddy's 2 (2014)",'pc','PC','8','horror indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/488559_IGDB-188x250.jpg',"Five Nights at Freddy's 2 (2014)",'pc','PC/PS4','8','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/13220_IGDB-188x250.jpg',"Pac-Man Fever (2002)",'ps2','PS2/NGC','8','party') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/12975_IGDB-188x250.jpg',"Pac-Man World Rally (2006)",'ps2','PS2/NGC/PSP','8','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/511537_IGDB-188x250.jpg',"Raccoo Venture (2023)",'ps4','PS4/PS5','8','platform indie') +
     createGame('./assets/game-covers/sr2-to-the-moon.jpg',"SM64 Star Revenge 2: Act 1: To The Moon (Hack ROM)(2017)",'n64','N64','8','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/491769_IGDB-188x250.jpg',"Sniper Elite 4 (2017)",'ps4','PS4','8','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1200871695_IGDB-188x250.jpg',"The Last of Us Remastered (2013/2014)",'ps4','PS4','8','action') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/10979_IGDB-188x250.jpg',"The Legend of Zelda (1986)",'nes','NES','8','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/26821_IGDB-188x250.jpg',"VVVVVV (2010)",'pc','PC','8','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15593_IGDB-188x250.jpg',"Warzone 2100 (1999/2004)",'pc','PC','8','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/14625_IGDB-188x250.jpg',"Crash Bash (2000)",'ps1','PS1','7.75','party') +
@@ -157,11 +158,12 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/34257_IGDB-188x250.jpg',"Sonic & All-Stars Racing Transformed (2012)",'pc','PC','7.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/494552_IGDB-188x250.jpg',"The Last of Us Part II (2020)",'ps4','PS4','7.5','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/332_IGDB-188x250.jpg',"Crash Bandicoot 2: N-Tranced (2003)",'gba','GBA','7.25','platform') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/488818_IGDB-188x250.jpg',"Five Nights at Freddy's 3 (2015)",'pc','PC','7.25','horror indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/488818_IGDB-188x250.jpg',"Five Nights at Freddy's 3 (2015)",'pc','PC/PS4','7.25','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/509508_IGDB-188x250.jpg',"Super Mario Bros. All-Stars (1985/1993)",'snes','Super Nintendo','7.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7785_IGDB-188x250.jpg',"Power Rangers: Lightspeed Rescue (2000)",'ps1','PS1','7.25','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497388_IGDB-188x250.jpg',"A Way Out (2018)",'ps4','PS4','7','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/313256_IGDB-188x250.jpg',"Broforce (2014)",'ps4','PS4','7','action indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/492810_IGDB-188x250.jpg',"Five Nights at Freddy's: Sister Location (2016)",'pc','PC/PS4','7','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1634139700_IGDB-188x250.jpg',"Super Chicken Jumper (2021)",'pc','PC','7','action indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7009_IGDB-188x250.jpg',"Crash Bandicoot: The Huge Adventure (2002)",'gba','GBA','6.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/20776_IGDB-188x250.jpg',"M&M's Shell Shocked (2001)",'ps1','PS1','6.75','platform') +
