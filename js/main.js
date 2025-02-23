@@ -40,6 +40,7 @@ function gamesCreated() {
     createGame('./assets/game-covers/newer-super-mario-bros-wii.JPG',"Newer Super Mario Bros. Wii (Hack ROM)(2013)",'wii','Wii','9.75','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518019_IGDB-188x250.jpg',"Returnal (2021)",'ps5','PS5','9.75','roguelike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.75','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/463447553_IGDB-188x250.jpg',"Super Mario Bros. Wonder (2023)",'switch','Switch','9.75','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94073_IGDB-188x250.jpg',"The Binding of Isaac: Rebirth (2014)",'ps4','PS4/PC','9.75','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369075_IGDB-188x250.jpg','A Hat in Time (2017)','ps4','PS4','9.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2109666737_IGDB-188x250.jpg',"Astro Bot (2024)",'ps5','PS5','9.5','platform') +
