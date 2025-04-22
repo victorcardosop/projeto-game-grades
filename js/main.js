@@ -78,6 +78,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/9455_IGDB-188x250.jpg',"Super Mario Bros. 3 All-Stars (1988/1993)",'snes','Super Nintendo','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/31376_IGDB-188x250.jpg',"Terraria (2011)",'pc','Xbox360/PC/PS4','9.25','sandbox indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1290989747_IGDB-188x250.jpg','The Legend of Zelda: Echoes of Wisdom (2024)','switch','Switch','9.25','adventure') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1450386257_IGDB-188x250.jpg',"Wo Long: Fallen Dynasty (2023)",'ps5','PS4/PS5','9.25','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/512940_IGDB-188x250.jpg',"Yooka-Laylee and the Impossible Lair (2019)",'ps4','PS4','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489401_IGDB-188x250.jpg',"Call of Duty: Black Ops III: Zombies (2015)",'ps4','PS4','9','fps') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489170_IGDB-188x250.jpg',"Dark Souls II: Scholar of the First Sin (2014/2015)",'ps4','PS4','9','soulslike') +
