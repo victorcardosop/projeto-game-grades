@@ -68,6 +68,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1376327401_IGDB-188x250.jpg',"Horizon Chase Turbo (2018)",'pc','PC/PS4','9.25','racing indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/8753_IGDB-188x250.jpg','Klonoa: Door to Phantomile (1997)','ps1','PS1','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24208_IGDB-188x250.jpg',"Metal Gear Rising: Revengeance (2013)",'pc','PC','9.25','action') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/212029556_IGDB-188x250.jpg','Metroid Dread (2021)','switch','Switch','9.25','metroidvania') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24238_IGDB-188x250.jpg',"New Super Mario Bros. Wii (2009)",'wii','Wii','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/59_IGDB-188x250.jpg',"Pac-Man World (1999)",'ps1','PS1','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518016_IGDB-188x250.jpg',"Ratchet & Clank: Rift Apart (2021)",'ps5','PS5','9.25','action') +
