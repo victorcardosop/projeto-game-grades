@@ -109,6 +109,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/69_IGDB-188x250.jpg',"Crash Bandicoot: The Wrath of Cortex (2001)",'ps2','PS2','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2087_IGDB-188x250.jpg',"Crash Nitro Kart (2003)",'gc','NGC','8.5','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/19499_IGDB-188x250.jpg',"Crash Tag Team Racing (2005)",'ps2','PS2/PSP','8.5','racing') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/369591_IGDB-188x250.jpg','Donkey Kong Country: Tropical Freeze (2014/2018)','switch','Switch','8.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/488632_IGDB-188x250.jpg',"Enter the Gungeon (2016)",'ps4','PS4','8.5','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/418063_IGDB-188x250.jpg',"Five Nights at Freddy's (2014)",'pc','PC/PS4','8.5','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/15477_IGDB-188x250.jpg',"Hogs of War (2000)",'ps1','PS1/PC','8.5','strategy') +
