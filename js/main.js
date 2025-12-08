@@ -24,8 +24,8 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/16582_IGDB-188x250.jpg',"Metal Gear Solid 3: Snake Eater (2004)",'ps2','PS2/Xbox360','10','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24872_IGDB-188x250.jpg',"Nioh Remastered (2017/2021)",'ps5','PS5','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/506468_IGDB-188x250.jpg',"Nioh 2 Remastered (2020/2021)",'ps5','PS5','10','soulslike') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/14766_IGDB-188x250.jpg',"Super Mario Galaxy (2007)",'wii','Wii','10','platform') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/24239_IGDB-188x250.jpg',"Super Mario Galaxy 2 (2010)",'wii','Wii','10','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/14766_IGDB-188x250.jpg',"Super Mario Galaxy (2007)",'wii','Wii/Switch','10','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/24239_IGDB-188x250.jpg',"Super Mario Galaxy 2 (2010)",'wii','Wii/Switch','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB-188x250.jpg',"Super Mario World (1990)",'snes','Super Nintendo','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/517585_IGDB-188x250.jpg','UnMetal (2021)','pc','PC','10','stealth indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2009742488_IGDB-188x250.jpg',"Bioshock Remastered (2007/2016)",'ps4','PS4','9.75','fps') +
@@ -60,6 +60,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1221049070_IGDB-188x250.jpg',"Pac-Man World Re-Pac (1999/2022)",'ps4','PS4/PS5','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/16791_IGDB-188x250.jpg',"Ratchet & Clank (2016)",'ps4','PS4','9.5','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369590_IGDB-188x250.jpg',"Super Mario 3D World (2013)",'wiiU','NWU','9.5','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1446426412-188x250.jpg',"Super Mario 3D World + Bowser's Fury (2013/2021)",'switch','Switch','9.5','platform') +
     createGame('./assets/game-covers/sr1-star-takeover.jpg',"SM64 Star Revenge 1.5: Star Takeover Redone (Hack ROM)(2020)",'n64','N64','9.5','platform hackrom') +
     createGame('./assets/game-covers/smwcp2-2022.JPG',"Super Mario World Central Production 2 (Hack ROM)(2022)",'snes','Super Nintendo','9.5','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6756_IGDB-188x250.jpg',"Crash Bandicoot (1996)",'ps1','PS1','9.25','platform') +
@@ -73,6 +74,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/212029556_IGDB-188x250.jpg','Metroid Dread (2021)','switch','Switch','9.25','metroidvania') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24238_IGDB-188x250.jpg',"New Super Mario Bros. Wii (2009)",'wii','Wii','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/59_IGDB-188x250.jpg',"Pac-Man World (1999)",'ps1','PS1','9.25','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1023301567_IGDB-188x250.jpg',"Pac-Man World 2 Re-Pac (2025)",'ps4','PS4/PS5','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518016_IGDB-188x250.jpg',"Ratchet & Clank: Rift Apart (2021)",'ps5','PS5','9.25','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/725811421_IGDB-188x250.jpg',"Spyro 2: Ripto's Rage Reignited Trilogy (1999/2018)",'ps4','PS4','9.25','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1916268396_IGDB-188x250.jpg',"Spyro: Year of the Dragon Reignited Trilogy (2000/2018)",'ps4','PS4','9.25','platform') +
@@ -92,6 +94,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11386_IGDB-188x250.jpg',"Metal Gear Solid 2: Sons of Liberty (2001)",'ps2','PS2/Xbox360','9','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-188x250.jpg','Minecraft (2011)','pc','PC/PS4','9','sandbox') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/31905_IGDB-188x250.jpg',"New Super Mario Bros. U (2012)",'wiiU','NWU','9','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/366613364_IGDB-188x250.jpg',"New Super Mario Bros. U Deluxe (2012/2019)",'switch','Switch','9','platform') +
     createGame('./assets/game-covers/sr4.5-the-kedama-takeover-rewritten.jpg',"SM64 Star Revenge 4.5: The Kedama Takeover Rewritten (Hack ROM)(2016)",'n64','N64','9','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1885901697_IGDB-188x250.jpg',"Spyro the Dragon Reignited Trilogy (1998/2018)",'ps4','PS4','9','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','9','roguelike indie') +
