@@ -25,6 +25,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/16582_IGDB-188x250.jpg',"Metal Gear Solid 3: Snake Eater (2004)",'ps2','PS2/Xbox360','10','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24872_IGDB-188x250.jpg',"Nioh Remastered (2017/2021)",'ps5','PS5','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/506468_IGDB-188x250.jpg',"Nioh 2 Remastered (2020/2021)",'ps5','PS5','10','soulslike') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/639699690_IGDB-188x250.jpg',"Nioh 3 (2026)",'ps5','PS5','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/14766_IGDB-188x250.jpg',"Super Mario Galaxy (2007)",'wii','Wii/Switch','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24239_IGDB-188x250.jpg',"Super Mario Galaxy 2 (2010)",'wii','Wii/Switch','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB-188x250.jpg',"Super Mario World (1990)",'snes','Super Nintendo','10','platform') +
@@ -125,6 +126,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1672045667_IGDB-188x250.jpg',"Hot Wheels Unleashed 2: Turbocharged (2023)",'ps4','PS4/PS5','8.3','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11831_IGDB-188x250.jpg',"Pac-Man World 3 (2005)",'ps2','PS2/PC/PSP','8.3','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/513459_IGDB-188x250.jpg',"Songs for a Hero (2016)",'pc','PC','8.3','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/460648_IGDB-188x250.jpg','Captain Toad: Treasure Tracker (2014/2018)','switch','Switch','8.2','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1716516651_IGDB-188x250.jpg',"Hot Wheels Unleashed (2021)",'ps5','PS5','8.2','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489398_IGDB-188x250.jpg','Klonoa (1997/2008)','wii','Wii','8.2','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/28577_IGDB-188x250.jpg',"Mario vs Donkey Kong: Mini-Land Mayhem! (2010)",'nds','NDS','8.2','strategy') +
