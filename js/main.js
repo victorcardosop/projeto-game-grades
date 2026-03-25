@@ -157,6 +157,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/492934_IGDB-188x250.jpg',"Resident Evil 7: Biohazard (2017)",'ps4','PS4','7.7','horror') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/332_IGDB-188x250.jpg',"Crash Bandicoot 2: N-Tranced (2003)",'gba','GBA','7.6','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94884_IGDB-188x250.jpg',"Hotline Miami 2: Wrong Number (2015)",'ps4','PS4','7.6','action indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1827019334_IGDB-188x250.jpg',"Nikoderiko: The Magical World (2024)",'switch','Switch','7.6','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/12975_IGDB-188x250.jpg',"Pac-Man World Rally (2006)",'ps2','PS2/NGC/PSP','7.6','racing') +
     createGame('./assets/game-covers/sr2-to-the-moon.jpg',"SM64 Star Revenge 2: Act 1: To The Moon (Hack ROM)(2017)",'n64','N64','7.5','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/509508_IGDB-188x250.jpg',"Super Mario Bros. All-Stars (1985/1993)",'snes','Super Nintendo','7.5','platform') +
