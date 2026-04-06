@@ -17,7 +17,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/29099_IGDB-188x250.jpg',"Bioshock Infinite (2013)",'ps4','Xbox360/PS4','10','fps') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/460636_IGDB-188x250.jpg','Bloodborne (2015)','ps4','PS4','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11854_IGDB-188x250.jpg','Crash Bandicoot: Warped (1998)','ps1','PS1','10','platform') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/518222_IGDB-188x250.jpg',"Crash Bandicoot 4: It's About Time (2020)",'ps4','PS4/PS5','10','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/518222_IGDB-188x250.jpg',"Crash Bandicoot 4: It's About Time (2020)",'ps4','PS4/PS5/Switch','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/510579_IGDB-188x250.jpg',"Crash Team Racing Nitro-Fueled (2019)",'ps4','PS4','10','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1122982998_IGDB-188x250.jpg','Dark Souls: Remastered (2011/2018)','ps4','PS4','10','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-188x250.jpg','Elden Ring (2022)','ps4','PS4/PS5','10','soulslike') +
@@ -30,7 +30,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24239_IGDB-188x250.jpg',"Super Mario Galaxy 2 (2010)",'wii','Wii/Switch','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1229_IGDB-188x250.jpg',"Super Mario World (1990)",'snes','Super Nintendo','10','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/94073_IGDB-188x250.jpg',"The Binding of Isaac: Rebirth (2014)",'ps4','PS4/PC','10','roguelike indie') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/517585_IGDB-188x250.jpg','UnMetal (2021)','pc','PC','10','stealth indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/517585_IGDB-188x250.jpg','UnMetal (2021)','pc','PC/PS4/Switch','10','stealth indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7934_IGDB-188x250.jpg',"Crash Bandicoot 2: Cortex Strikes Back (1997)",'ps1','PS1','9.9','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2692_IGDB-188x250.jpg',"Super Mario 64 (1996)",'n64','N64','9.9','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2009742488_IGDB-188x250.jpg',"Bioshock Remastered (2007/2016)",'ps4','PS4','9.8','fps') +
@@ -48,7 +48,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/5682_IGDB-188x250.jpg',"Crash Team Racing (1999)",'ps1','PS1','9.6','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/91419_IGDB-188x250.jpg',"Metal Gear Solid V: The Phantom Pain (2015)",'ps4','PS4','9.6','stealth') +
     createGame('./assets/game-covers/newer-super-mario-bros-wii.JPG',"Newer Super Mario Bros. Wii (Hack ROM)(2013)",'wii','Wii','9.6','platform hackrom') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB-188x250.jpg',"Celeste (2018)",'pc','PC/PS4','9.5','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB-188x250.jpg',"Celeste (2018)",'pc','PC/PS4/Switch','9.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/459064_IGDB-188x250.jpg',"Cuphead (2017)",'pc','PC','9.5','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/165338793_IGDB-188x250.jpg',"Donkey Kong Country (1994)",'snes','Super Nintendo','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/666_IGDB-188x250.jpg',"Metal Gear 2: Solid Snake (1990)",'msx','MSX','9.5','stealth') +
@@ -56,9 +56,9 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/31376_IGDB-188x250.jpg',"Terraria (2011)",'pc','Xbox360/PC/PS4','9.5','sandbox indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2109666737_IGDB-188x250.jpg',"Astro Bot (2024)",'ps5','PS5','9.4','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2143844298_IGDB-188x250.jpg',"Bioshock 2 Remastered (2010/2016)",'ps4','PS4','9.4','fps') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/509398_IGDB-188x250.jpg','Kaze and the Wild Masks (2021)','pc','PC','9.4','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/509398_IGDB-188x250.jpg','Kaze and the Wild Masks (2021)','pc','PC/PS4/Switch','9.4','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/18893_IGDB-188x250.jpg',"Metal Gear Solid 4: Guns of the Patriots (2008)",'ps3','PS3','9.4','stealth') +    
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1221049070_IGDB-188x250.jpg',"Pac-Man World Re-Pac (1999/2022)",'ps4','PS4/PS5','9.4','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1221049070_IGDB-188x250.jpg',"Pac-Man World Re-Pac (1999/2022)",'ps4','PS4/PS5/Switch','9.4','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369590_IGDB-188x250.jpg',"Super Mario 3D World (2013)",'wiiU','NWU','9.4','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1446426412-188x250.jpg',"Super Mario 3D World + Bowser's Fury (2013/2021)",'switch','Switch','9.4','platform') +   
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/6369_IGDB-188x250.jpg','God of War (2018)','ps4','PS4','9.3','adventure') +
@@ -82,6 +82,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11386_IGDB-188x250.jpg',"Metal Gear Solid 2: Sons of Liberty (2001)",'ps2','PS2/Xbox360','9.1','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518016_IGDB-188x250.jpg',"Ratchet & Clank: Rift Apart (2021)",'ps5','PS5','9.1','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/725811421_IGDB-188x250.jpg',"Spyro 2: Ripto's Rage Reignited Trilogy (1999/2018)",'ps4','PS4','9.1','platform') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1050659518_IGDB-188x250.jpg','Super Meat Boy 3D (2026)','ps5','PS5','9.1','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/13565_IGDB-188x250.jpg',"Crash Twinsanity (2004)",'ps2','PS2','9','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/418063_IGDB-188x250.jpg',"Five Nights at Freddy's (2014)",'pc','PC/PS4','9','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/102007682_IGDB-188x250.jpg','God of War Ragnarök (2022)','ps5','PS5','9','adventure') +
