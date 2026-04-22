@@ -46,6 +46,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369075_IGDB-188x250.jpg','A Hat in Time (2017)','ps4','PS4','9.6','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489642_IGDB-188x250.jpg','Bloodstained: Ritual of the Night (2019)','ps4','PS4','9.6','metroidvania indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/5682_IGDB-188x250.jpg',"Crash Team Racing (1999)",'ps1','PS1','9.6','racing') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/496321134_IGDB-188x250.jpg','Kirby and the Forgotten Land (2022)','switch','Switch','9.6','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/91419_IGDB-188x250.jpg',"Metal Gear Solid V: The Phantom Pain (2015)",'ps4','PS4','9.6','stealth') +
     createGame('./assets/game-covers/newer-super-mario-bros-wii.JPG',"Newer Super Mario Bros. Wii (Hack ROM)(2013)",'wii','Wii','9.6','platform hackrom') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/492535_IGDB-188x250.jpg',"Celeste (2018)",'pc','PC/PS4/Switch','9.5','platform indie') +
@@ -121,7 +122,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2087_IGDB-188x250.jpg',"Crash Nitro Kart (2003)",'gc','NGC','8.4','racing') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/488632_IGDB-188x250.jpg',"Enter the Gungeon (2016)",'ps4','PS4','8.4','roguelike indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10023_IGDB-188x250.jpg',"Hot Wheels: Stunt Track Challenge (2004)",'pc','PC/PS2','8.4','racing') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/22720_IGDB-188x250.jpg',"Super Meat Boy (2010)",'pc','Xbox360/PC/PS4','8.4','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/22720_IGDB-188x250.jpg',"Super Meat Boy (2010)",'pc','PC/PS4/Switch','8.4','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/369591_IGDB-188x250.jpg','Donkey Kong Country: Tropical Freeze (2014/2018)','switch','Switch','8.3','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518015_IGDB-188x250.jpg',"Horizon Forbidden West (2022)",'ps4','PS4/PS5','8.3','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1672045667_IGDB-188x250.jpg',"Hot Wheels Unleashed 2: Turbocharged (2023)",'ps4','PS4/PS5','8.3','racing') +
