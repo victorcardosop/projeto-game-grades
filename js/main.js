@@ -174,6 +174,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10263_IGDB-188x250.jpg',"Kao the Kangaroo: Round 2 (2003/2019)",'pc','PC','7.3','platform indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/493651986_IGDB-188x250.jpg',"Disney's Donald Duck: Goin' Quackers (2000)",'ps1','PS1','7.2','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/313256_IGDB-188x250.jpg',"Broforce (2014)",'ps4','PS4','7.1','action indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/18104_IGDB-188x250.jpg',"Kirby's Dream Land (1992)",'gameBoy','Game Boy','7.1','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/494552_IGDB-188x250.jpg',"The Last of Us Part II (2020)",'ps4','PS4','7.1','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7785_IGDB-188x250.jpg',"Power Rangers: Lightspeed Rescue (2000)",'ps1','PS1','7','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497388_IGDB-188x250.jpg',"A Way Out (2018)",'ps4','PS4','7','adventure') +
