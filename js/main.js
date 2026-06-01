@@ -67,7 +67,8 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/14805_IGDB-188x250.jpg','Metal Gear Solid (1998)','ps1','PS1','9.3','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/24238_IGDB-188x250.jpg',"New Super Mario Bros. Wii (2009)",'wii','Wii','9.3','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1023301567_IGDB-188x250.jpg',"Pac-Man World 2 Re-Pac (2025)",'ps4','PS4/PS5','9.3','platform') +
-    createGame('https://static-cdn.jtvnw.net/ttv-boxart/16791_IGDB-188x250.jpg',"Ratchet & Clank (2016)",'ps4','PS4','9.3','action') +  
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/16791_IGDB-188x250.jpg',"Ratchet & Clank (2016)",'ps4','PS4','9.3','action') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/30651912_IGDB-188x250.jpg',"Saros (2026)",'ps5','PS5','9.3','roguelike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/30826_IGDB-188x250.jpg',"Super Mario 3D Land (2011)",'n3ds','3DS','9.3','platform') +    
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/1290989747_IGDB-188x250.jpg','The Legend of Zelda: Echoes of Wisdom (2024)','switch','Switch','9.3','adventure') +    
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 1 N. Sane Trilogy (1996/2017)",'ps4','PS4','9.2','platform') +   
