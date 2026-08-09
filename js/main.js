@@ -102,6 +102,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/11644_IGDB-188x250.jpg',"Castlevania: Rondo of Blood (1993)",'tg16','TG-16','8.7','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489170_IGDB-188x250.jpg',"Dark Souls II: Scholar of the First Sin (2014/2015)",'ps4','PS4','8.7','soulslike') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/499856_IGDB-188x250.jpg',"Ghost of Tsushima (2020)",'ps4','PS4','8.7','adventure') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/1354355809_IGDB-188x250.jpg',"Split Fiction (2025)",'ps5','PS5','8.7','strategy') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/7457_IGDB-188x250.jpg',"Mega Man 4 (1991)",'nes','NES','8.7','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/31905_IGDB-188x250.jpg',"New Super Mario Bros. U (2012)",'wiiU','NWU','8.7','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/366613364_IGDB-188x250.jpg',"New Super Mario Bros. U Deluxe (2012/2019)",'switch','Switch','8.7','platform') + 
@@ -173,6 +174,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/497385_IGDB-188x250.jpg',"Dragon Ball Fighter Z (2019)",'ps4','PS4','7.3','fighting') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/488818_IGDB-188x250.jpg',"Five Nights at Freddy's 3 (2015)",'pc','PC/PS4','7.3','horror indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/10263_IGDB-188x250.jpg',"Kao the Kangaroo: Round 2 (2003/2019)",'pc','PC','7.3','platform indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/509509_IGDB-188x250.jpg',"Deadpool (2013)",'ps4','PS4','7.2','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/493651986_IGDB-188x250.jpg',"Disney's Donald Duck: Goin' Quackers (2000)",'ps1','PS1','7.2','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/313256_IGDB-188x250.jpg',"Broforce (2014)",'ps4','PS4','7.1','action indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/18104_IGDB-188x250.jpg',"Kirby's Dream Land (1992)",'gameBoy','Game Boy','7.1','platform') +
