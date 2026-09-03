@@ -108,6 +108,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/366613364_IGDB-188x250.jpg',"New Super Mario Bros. U Deluxe (2012/2019)",'switch','Switch','8.7','platform') + 
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518020_IGDB-188x250.jpg','Sackboy: A Big Adventure (2020)','ps4','PS4/PS5','8.7','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/32207_IGDB-188x250.jpg',"The Binding of Isaac (2011)",'pc','PC','8.7','roguelike indie') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/278441117-188x250.jpg',"Assassin's Creed Black Flag Resynced (2026)",'ps5','PS5','8.6','adventure') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/518022_IGDB-188x250.jpg',"Astro's Playroom (2020)",'ps5','PS5','8.6','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/489401_IGDB-188x250.jpg',"Call of Duty: Black Ops III: Zombies (2015)",'ps4','PS4','8.6','fps') +
     createGame('./assets/game-covers/crash-bandicoot-n-sane-trilogy.jpg',"Crash Bandicoot 2 N. Sane Trilogy (1997/2017)",'ps4','PS4','8.6','platform') + 
