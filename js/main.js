@@ -54,6 +54,7 @@ function gamesCreated() {
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/165338793_IGDB-188x250.jpg',"Donkey Kong Country (1994)",'snes','Super Nintendo','9.5','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/666_IGDB-188x250.jpg',"Metal Gear 2: Solid Snake (1990)",'msx','MSX','9.5','stealth') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/212029556_IGDB-188x250.jpg','Metroid Dread (2021)','switch','Switch','9.5','metroidvania') +
+    createGame('https://static-cdn.jtvnw.net/ttv-boxart/327598602_IGDB-188x250.jpg',"Onimusha: Way of the Sword (2026)",'ps5','PS5','9.5','action') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/31376_IGDB-188x250.jpg',"Terraria (2011)",'pc','Xbox360/PC/PS4','9.5','sandbox indie') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2109666737_IGDB-188x250.jpg',"Astro Bot (2024)",'ps5','PS5','9.4','platform') +
     createGame('https://static-cdn.jtvnw.net/ttv-boxart/2143844298_IGDB-188x250.jpg',"Bioshock 2 Remastered (2010/2016)",'ps4','PS4','9.4','fps') +
